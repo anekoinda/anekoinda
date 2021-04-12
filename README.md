@@ -76,18 +76,6 @@
 <tr><td><a href="https://youtu.be/jsLx7WCe4jM"><img width="140px" src="https://i.ytimg.com/vi/jsLx7WCe4jM/mqdefault.jpg"></a></td>
 <td><a href="https://youtu.be/jsLx7WCe4jM">Membuat Replikasi 1 Arah (Master to Slave) di MySQL Menggunakan CMD</a><br/>June 5, 2020</td></tr>
 
-<tr><td><a href="https://youtu.be/j_ShgDB2pFk"><img width="140px" src="https://i.ytimg.com/vi/j_ShgDB2pFk/mqdefault.jpg"></a></td>
-<td><a href="https://youtu.be/j_ShgDB2pFk">Membuat Cursor di MySQL Menggunakan CMD</a><br/>June 4, 2020</td></tr>
-
-<tr><td><a href="https://youtu.be/GorIyf5pFdA"><img width="140px" src="https://i.ytimg.com/vi/GorIyf5pFdA/mqdefault.jpg"></a></td>
-<td><a href="https://youtu.be/GorIyf5pFdA">Membuat Stored Procedure di MySQL Menggunakan CMD</a><br/>June 3, 2020</td></tr>
-
-<tr><td><a href="https://youtu.be/Np-bHawQQNI"><img width="140px" src="https://i.ytimg.com/vi/Np-bHawQQNI/mqdefault.jpg"></a></td>
-<td><a href="https://youtu.be/Np-bHawQQNI">Membuat Trigger di MySQL Menggunakan CMD</a><br/>June 2, 2020</td></tr>
-
-<tr><td><a href="https://youtu.be/gJj45PX5sHE"><img width="140px" src="https://i.ytimg.com/vi/gJj45PX5sHE/mqdefault.jpg"></a></td>
-<td><a href="https://youtu.be/gJj45PX5sHE">Tutorial SPARK AR STUDIO : Membuat Filter di Instagram (Bahasa Indonesia)</a><br/>Dec 9, 2019</td></tr>
-
 </tbody>
 </table>
 </details>
