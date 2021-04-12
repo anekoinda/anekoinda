@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! I'm Aneko <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h2>
+<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! I'm Aneko <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h2>
 </div>
 
 - 🌱 I’m 19 years old and currently learning <b>Python</b>, <b>Laravel</b>, <b>UI/UX Design</b>
@@ -8,7 +8,7 @@
 
 <br>
 
-### 🛠 Languages and Tools
+### 🛠 Languages and Tools 🛠
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -26,7 +26,7 @@
 
 <br>
 
-### 💛 Connect with Me 
+### 💛 Connect with Me 💛
 <a href="https://t.me/shiltainda">
   <img align="left" alt="Aneko's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
@@ -56,7 +56,7 @@
 <br>
 
 <details>
-<summary>&nbsp;<b><h3>👩‍💻 Github Activity</h3></b></summary>
+<summary>My Github Activity</summary>
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anekoinda&show_icons=true&locale=en&layout=compact" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anekoinda&show_icons=true&locale=en" width="410" /></p>
