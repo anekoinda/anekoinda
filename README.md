@@ -5,9 +5,9 @@
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 <br>
-<br>
 
-- 🌱 I’m 19 years old and currently learning <b>Python</b>, <b>Laravel</b>, <b>UI/UX Design</b>
+- 🌱 I’m 19 years old and currently learning <b>Python</b> and <b>Laravel</b>
+- 🎨 I'm a self-taught UI/UX designer
 - 💬 Ask me about anything, I'm very glad to reply it >_<
 - 👧 Pronouns: She/Her
 
