@@ -7,8 +7,7 @@
 <br>
 
 - 🌱 I’m 19 years old and currently learning <b>Python</b> and <b>Laravel</b>
-- 🎨 I'm a self-taught UI/UX designer
-- 💬 Ask me about anything, I'm very glad to reply it >_<
+- 🎨 I'm UI/UX Designer
 - 👧 Pronouns: She/Her
 
 <br>
