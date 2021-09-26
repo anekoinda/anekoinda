@@ -65,5 +65,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anekoinda&show_icons=true&theme=radical&locale=en" width="410" /></p>
 </div>
 </details>
-
-<br/>
