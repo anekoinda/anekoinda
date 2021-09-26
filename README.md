@@ -28,7 +28,7 @@
 <br>
 
 ### 💛 Connect with Me 💛
-<a href="https://t.me/shiltainda">
+<a href="https://t.me/anekoinda">
   <img align="left" alt="Aneko's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
@@ -36,7 +36,7 @@
   <img align="left" alt="Aneko's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
-<a href="https://instagram.com/shilta_inda/">
+<a href="https://instagram.com/ui_aneko/">
   <img align="left" alt="Aneko's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
@@ -57,24 +57,6 @@
 
 <br>
 <br>
-  
-<details>
-<summary>Latest Youtube Videos</summary>
-<table>
-<tbody>
-<tr>
-<td><a href="https://youtu.be/21HHHhaTBNQ"><img width="140px" src="https://i.ytimg.com/vi/21HHHhaTBNQ/mqdefault.jpg"></a></td>
-<td><a href="https://youtu.be/21HHHhaTBNQ">Menghitung Delay Menggunakan Wireshark</a><br/>June 7, 2020</td></tr>
-  
-<tr><td><a href="https://youtu.be/HdiDVKtsxQE"><img width="140px" src="https://i.ytimg.com/vi/HdiDVKtsxQE/mqdefault.jpg"></a></td>
-<td><a href="https://youtu.be/HdiDVKtsxQE">Membuat Replikasi 2 Arah (Master to Master) di MySQL Menggunakan CMD</a><br/>June 6, 2020</td></tr>
-
-<tr><td><a href="https://youtu.be/jsLx7WCe4jM"><img width="140px" src="https://i.ytimg.com/vi/jsLx7WCe4jM/mqdefault.jpg"></a></td>
-<td><a href="https://youtu.be/jsLx7WCe4jM">Membuat Replikasi 1 Arah (Master to Slave) di MySQL Menggunakan CMD</a><br/>June 5, 2020</td></tr>
-
-</tbody>
-</table>
-</details>
   
 <details>
 <summary>My Github Activity</summary>
