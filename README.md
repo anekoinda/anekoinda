@@ -6,7 +6,7 @@
 
 <br>
 
-- 🌱 I’m 20 years old and currently learning <b>Python</b> and <b>Laravel</b>
+- 🌱 I’m 20 years old and currently learning <b>Kotlin</b>
 - 🎨 I'm UI/UX Designer
 - 👧 Pronouns: She/Her
 
