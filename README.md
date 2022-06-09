@@ -1,5 +1,5 @@
 <div align="center">
-<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! I'm Aneko <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h2>
+<h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! I'm Aneko</h2>
 </div>
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
