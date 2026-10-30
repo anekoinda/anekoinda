@@ -9,7 +9,5 @@
 - 🌱 I’m 21 years old and currently learning <b>Kotlin</b>
 - 🎨 I'm UI/UX Designer
 - 👧 Pronouns: She/Her
-
-<br>
 </div>
 </details>
